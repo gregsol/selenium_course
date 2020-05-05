@@ -1,3 +1,5 @@
+# запускать из своего виртуального окружения, с установленным pytest и selenium
+
 import time
 link = "http://selenium1py.pythonanywhere.com/catalogue/coders-at-work_207/"
 
